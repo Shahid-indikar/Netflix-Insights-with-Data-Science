@@ -25,6 +25,7 @@ Project01 file - This project analyzes Netflix's dataset using Data Science tech
 📈 Exploratory Data Analysis (EDA)
 
 Some of the key findings:
+
 ✅ Most movies on Netflix belong to the Drama genre.
 ✅ The highest-rated movies tend to fall into Adventure & Sci-Fi categories.
 ✅ 2020 saw a surge in content production.
