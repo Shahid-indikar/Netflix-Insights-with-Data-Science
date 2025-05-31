@@ -13,20 +13,7 @@ Some of the key findings:
 ✅ The highest-rated movies tend to fall into Adventure & Sci-Fi categories.
 ✅ 2020 saw a surge in content production.
 ✅ Netflix **prefers producing TV shows over movies in recent years.
-🚀 How to Use This Repository
-- Clone the repo using:
-git clone https://github.com/your-username/netflix-data-science-project.git
-- Install dependencies:
-pip install -r requirements.txt
-- Run the analysis notebook:
-jupyter notebook of google collab
-- Explore the visualizations and insights.
-- 
-📊 Results & Future Work
-- Build a Recommendation System based on viewing history.
-- Perform Sentiment Analysis on user reviews.
-- Extend analysis to other streaming platforms (Prime Video, Disney+).
-🤝 Contributions
+
 Feel free to fork, improve, or suggest new features! Open issues or submit PRs for enhancements.
 📩 Contact 
 Connect with me on [LinkedIn: www.linkedin.com/in/shahid-indikar-240927332] or email: shahid.indikar2003@gmail.com
